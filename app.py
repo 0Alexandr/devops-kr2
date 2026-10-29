@@ -1,3 +1,4 @@
+# KR2: Krasnopolskiy
 import os
 import socket
 
